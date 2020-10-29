@@ -83,14 +83,14 @@ class TableViewController: UITableViewController {
         
 //        let context = getContext()
 //        let fetchRequest: NSFetchRequest<Task> = Task.fetchRequest()
-//        
+//
 //        //Deleting tasks from context
 //        if let results = try? context.fetch(fetchRequest ) {
 //            for result in results {
 //                context.delete(result)
 //            }
 //        }
-//        
+//
 //        // Saving context
 //        do {
 //            try context.save()
